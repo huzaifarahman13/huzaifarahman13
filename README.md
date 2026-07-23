@@ -17,14 +17,14 @@ class HuzaifaRahman:
     def __init__(self):
         self.role = "BS Data Science Student"
         self.stack = [
-    "C++",
-    "Python",
-    "JavaScript",
-    "SQL",
-    "Assembly (x86)",
-    "MongoDB",
-    "Vector Databases"
-]
+        "C++",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Assembly (x86)",
+        "MongoDB",
+        "Vector Databases"
+        ]
         self.currently_building = "Researching Multi-domain fusion network for underwater image enhancement"
         self.fun_fact = "Turns assignments into full blown games"
 
