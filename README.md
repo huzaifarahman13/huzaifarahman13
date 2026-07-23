@@ -16,12 +16,12 @@
 class HuzaifaRahman:
     def __init__(self):
         self.role = "BS Data Science Student"
-        self.stack = ["C++", "Assembly (x86)", "Python", "SQL"]
-        self.currently_building = "Rush Hour Game (OOP + Assembly editions)"
-        self.fun_fact = "Turns assignments into full-blown games"
+        self.stack = ["C++", "Assembly (x86)", "Python", "SQL", "VectorDB", ".JS"]
+        self.currently_building = "Researching Multi-domain fusion network for underwater image enhancement"
+        self.fun_fact = "Turns assignments into full blown games"
 
     def say_hi(self):
-        return "Let's build something wild 🚀"
+        return "Let's build something wild ;)"
 ```
 
 <br>
