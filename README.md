@@ -54,12 +54,7 @@ class HuzaifaRahman:
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=huzaifarahman13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=7b2ff7&text_color=c9d1d9" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifarahman13&theme=tokyonight&hide_border=true&background=0d0221&stroke=7b2ff7&ring=00fff5&fire=7b2ff7&currStreakLabel=00fff5" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifarahman13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=00fff5&text_color=c9d1d9" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=huzaifarahman13&theme=algolia&no-frame=true&column=3&margin-w=8&margin-h=8&row=2" width="49%"/>
 
 </div>
 
