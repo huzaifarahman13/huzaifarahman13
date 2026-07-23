@@ -17,19 +17,21 @@ class HuzaifaRahman:
     def __init__(self):
         self.role = "BS Data Science Student"
         self.stack = [
-        "C++",
-        "Python",
-        "JavaScript",
-        "SQL",
-        "Assembly (x86)",
-        "MongoDB",
-        "Vector Databases"
+            "C++",
+            "Python",
+            "JavaScript",
+            "SQL",
+            "Assembly (x86)",
+            "MongoDB",
+            "Vector Databases"
         ]
-        self.currently_building = "Researching Multi-domain fusion network for underwater image enhancement"
-        self.fun_fact = "Turns assignments into full blown games"
+        self.currently_building = (
+            "Researching multi-domain fusion networks for underwater image enhancement"
+        )
+        self.fun_fact = "Enjoys building complete systems from low-level code to AI applications"
 
     def say_hi(self):
-        return "Let's build something wild ;)"
+        return "Open to collaboration and new challenges."
 ```
 
 <br>
@@ -79,8 +81,9 @@ class HuzaifaRahman:
 <a href="https://linkedin.com/in/huzaifa-rahman-590106324/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff5"/>
 </a>
-<a href="https://github.com/huzaifarahman13" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-7b2ff7?style=for-the-badge&logo=github&logoColor=ffffff"/>
+
+<a href="mailto:huzaifarahman13@gmail.com">
+  <img src="https://img.shields.io/badge/Email-huzaifarahman13%40gmail.com-7b2ff7?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
 </a>
 
 </div>
