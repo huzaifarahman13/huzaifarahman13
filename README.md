@@ -94,13 +94,3 @@ class HuzaifaRahman:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,50:7b2ff7,100:0d0221&height=100&section=footer"/>
 
-<!--
-SETUP NOTES:
-1. Replace "YOUR-LINKEDIN-HANDLE" in the Connect section with your actual LinkedIn username.
-2. To activate the snake contribution animation:
-   - Create a repo named exactly the same as your username: huzaifarahman13/huzaifarahman13 (this repo IS your profile README).
-   - Go to Settings > Actions > add a new workflow using the "Platane/snk" action (search "github-contribution-grid-snake" on GitHub for the official action).
-   - This generates the animated snake SVG automatically on a schedule.
-3. Trophy/stats images are powered by public API services (github-readme-stats, streak-stats, profile-trophy).
-   These occasionally rate-limit; if an image doesn't load, refresh after a minute.
--->
