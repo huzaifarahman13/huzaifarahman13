@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:7b2ff7,100:00fff5&height=220&section=header&text=Huzaifa%20Rahman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Systems%20%2B%20Software&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&width=600&lines=BS+Data+Science+%40+NUCES;Building+things+in+C%2B%2B%2C+Assembly+%26+beyond;Currently+debugging+the+universe...one+bug+at+a+time" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&width=750&lines=BS+Data+Science+%40+NUCES;Building+things+in+C%2B%2B%2C+Assembly+%26+beyond;Currently+debugging+the+universe...one+bug+at+a+time" />
 </div>
 
 <br>
