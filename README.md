@@ -10,7 +10,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:7b2ff7&height=2&width=100%"/>
 
-## ⚡ About Me
+## About Me
 
 ```py
 class HuzaifaRahman:
@@ -26,7 +26,7 @@ class HuzaifaRahman:
 
 <br>
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -43,7 +43,7 @@ class HuzaifaRahman:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:7b2ff7&height=2&width=100%"/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -57,7 +57,7 @@ class HuzaifaRahman:
 
 <br>
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -71,7 +71,7 @@ class HuzaifaRahman:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:7b2ff7&height=2&width=100%"/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -88,7 +88,7 @@ class HuzaifaRahman:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:7b2ff7&height=2&width=100%"/>
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
