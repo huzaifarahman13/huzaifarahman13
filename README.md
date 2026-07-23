@@ -92,7 +92,7 @@ class HuzaifaRahman:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+<a href="https://linkedin.com/in/huzaifa-rahman-590106324/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff5"/>
 </a>
 <a href="https://github.com/huzaifarahman13" target="_blank">
