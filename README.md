@@ -79,23 +79,6 @@ class HuzaifaRahman:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:7b2ff7&height=2&width=100%"/>
 
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/huzaifarahman13/Rush-Hour-Game--OOP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifarahman13&repo=Rush-Hour-Game--OOP&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=7b2ff7&text_color=c9d1d9" width="48%"/>
-</a>
-<a href="https://github.com/huzaifarahman13/Rush-Hour-Game--Assembly-Language">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifarahman13&repo=Rush-Hour-Game--Assembly-Language&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=7b2ff7&text_color=c9d1d9" width="48%"/>
-</a>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:7b2ff7&height=2&width=100%"/>
-
 ## Connect
 
 <div align="center">
