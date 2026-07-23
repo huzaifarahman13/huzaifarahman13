@@ -73,8 +73,6 @@ class HuzaifaRahman:
 
 </div>
 
-> Note: the snake animation needs a one-time GitHub Actions setup — see setup note at the bottom.
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:7b2ff7&height=2&width=100%"/>
